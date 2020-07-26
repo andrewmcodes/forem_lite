@@ -22,6 +22,8 @@ The patterns laid out in this gem could easily be used to finish building out th
 
 ## Installation
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f1a758fccb5c46b1a9e6bdc1842d3281)](https://app.codacy.com/manual/andrewmcodes/forem_lite?utm_source=github.com&utm_medium=referral&utm_content=andrewmcodes/forem_lite&utm_campaign=Badge_Grade_Dashboard)
+
 Add this line to your application's Gemfile:
 
 ```ruby
