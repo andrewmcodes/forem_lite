@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "== StandardRb =="
+bundle exec standardrb --fix --format=progress
