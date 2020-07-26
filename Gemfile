@@ -7,11 +7,13 @@ group :development, :test do
 end
 
 group :development do
-  gem "standard", "~> 0.4"
   gem "solargraph", "~> 0.39"
+  gem "standard", "~> 0.4"
 end
 
 group :test do
+  gem "coveralls", "~> 0.8.23"
   gem "rspec", "~> 3.0"
+  gem "simplecov", "~> 0.16.1"
   gem "webmock", "~> 3.0"
 end

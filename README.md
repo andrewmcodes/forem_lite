@@ -5,11 +5,12 @@
       <img alt="License: MIT" src="https://img.shields.io/github/license/andrewmcodes/forem_lite" />
     </a>
     <a href="https://badge.fury.io/rb/forem_lite"><img src="https://badge.fury.io/rb/forem_lite.svg" alt="Gem Version" height="18"></a>
-    <!-- <a href="https://depfu.com"><img src="https://badges.depfu.com/badges/54fe87f2b14868b7c6e69aa0322e3764/status.svg" alt="Depfu"></a>
-    <a href="https://depfu.com/github/andrewmcodes/forem_lite?project_id=14094"><img src="https://badges.depfu.com/badges/54fe87f2b14868b7c6e69aa0322e3764/count.svg" alt="Depfu"></a>
-    <a href="https://codeclimate.com/github/andrewmcodes/forem_lite/maintainability"><img src="https://api.codeclimate.com/v1/badges/f9756d6568f43c7a407b/maintainability" /></a>
-    <a href="https://www.codacy.com/manual/andrewmcodes/forem_lite?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=andrewmcodes/forem_lite&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/caad1b16367242ff973fe2e977985364" alt="Codacy Badge"></a> -->
+    <a href="https://depfu.com"><img src="https://badges.depfu.com/badges/9cf174e17d58cbd60ea040722701e652/status.svg" alt="Depfu"></a>
+    <a href="https://depfu.com/github/andrewmcodes/forem_lite?project_id=14214"><img src="https://badges.depfu.com/badges/9cf174e17d58cbd60ea040722701e652/count.svg" alt="Depfu"></a>
+    <a href="https://codeclimate.com/github/andrewmcodes/forem_lite/maintainability"><img src="https://api.codeclimate.com/v1/badges/999e4e19ff915c1d4c8a/maintainability" /></a>
+    <a href="https://www.codacy.com/manual/andrewmcodes/forem_lite?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=andrewmcodes/forem_lite&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/4954986dea2e4732add795399a3c8c9d"/></a>
     <a href='https://coveralls.io/github/andrewmcodes/forem_lite?branch=main'><img src='https://coveralls.io/repos/github/andrewmcodes/forem_lite/badge.svg?branch=main' alt='Coverage Status' /></a>
+    <img alt="inch ci" src="http://inch-ci.org/github/andrewmcodes/forem_lite.svg?branch=main&style=shields">
     <img alt="Tests" src="https://github.com/andrewmcodes/forem_lite/workflows/Tests/badge.svg" />
     <img alt="Linters" src="https://github.com/andrewmcodes/forem_lite/workflows/Linters/badge.svg" />
     <img alt="Changelog" src="https://github.com/andrewmcodes/forem_lite/workflows/Changelog/badge.svg" />
