@@ -11,11 +11,11 @@ Gem::Specification.new do |s|
   s.summary = "A minimal API wrapper to retrieve Forem articles."
   s.description = s.summary
   s.metadata = {
-    "bug_tracker_uri" => "#{s.homepage}/forem_lite/issues",
+    "bug_tracker_uri" => "#{s.homepage}/issues",
     "changelog_uri" => "#{s.homepage}/blob/main/CHANGELOG.md",
-    "documentation_uri" => "#{s.homepage}/forem_lite",
-    "homepage_uri" => "#{s.homepage}/forem_lite",
-    "source_code_uri" => "#{s.homepage}/forem_lite"
+    "documentation_uri" => s.homepage,
+    "homepage_uri" => s.homepage,
+    "source_code_uri" => s.homepage
   }
 
   # Specify which files should be added to the gem when it is released.
