@@ -1,0 +1,10 @@
+{
+  "packages": {
+    ".": {
+      "release-type": "ruby",
+      "package-name": "forem_lite",
+      "version-file": "lib/forem_lite/version.rb",
+      "bump-minor-pre-major": true
+    }
+  }
+}
