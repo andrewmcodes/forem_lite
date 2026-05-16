@@ -1,31 +1,20 @@
 # Changelog
 
-## [Unreleased](https://github.com/andrewmcodes/bridgetown-inline-svg/tree/HEAD)
+## [Unreleased](https://github.com/andrewmcodes/forem_lite/tree/HEAD)
 
-[Full Changelog](https://github.com/andrewmcodes/bridgetown-inline-svg/compare/v1.1.1...HEAD)
-
-**Merged pull requests:**
-
-- chore: put the library into Maintenance Mode [\#28](https://github.com/andrewmcodes/bridgetown-inline-svg/pull/28) ([andrewmcodes](https://github.com/andrewmcodes))
-- build\(actions\): :construction\_worker: add release workflow [\#19](https://github.com/andrewmcodes/bridgetown-inline-svg/pull/19) ([andrewmcodes](https://github.com/andrewmcodes))
-- feat: Extend Bridgetown::Builder over extending liquid [\#6](https://github.com/andrewmcodes/bridgetown-inline-svg/pull/6) ([MikeRogers0](https://github.com/MikeRogers0))
-
-## [v1.1.1](https://github.com/andrewmcodes/bridgetown-inline-svg/tree/v1.1.1) (2020-07-31)
-
-[Full Changelog](https://github.com/andrewmcodes/bridgetown-inline-svg/compare/v1.1.0...v1.1.1)
-
-## [v1.1.0](https://github.com/andrewmcodes/bridgetown-inline-svg/tree/v1.1.0) (2020-07-21)
-
-[Full Changelog](https://github.com/andrewmcodes/bridgetown-inline-svg/compare/v1.0.0...v1.1.0)
+[Full Changelog](https://github.com/andrewmcodes/forem_lite/compare/v0.0.2...HEAD)
 
 **Merged pull requests:**
 
-- Update documentation [\#5](https://github.com/andrewmcodes/bridgetown-inline-svg/pull/5) ([andrewmcodes](https://github.com/andrewmcodes))
-- bug: Allow svg in partial without passing "site: site" explicitly [\#4](https://github.com/andrewmcodes/bridgetown-inline-svg/pull/4) ([MikeRogers0](https://github.com/MikeRogers0))
+- bug: Correcting URLs on https://rubygems.org/gems/forem\_lite [\#3](https://github.com/andrewmcodes/forem_lite/pull/3) ([MikeRogers0](https://github.com/MikeRogers0))
 
-## [v1.0.0](https://github.com/andrewmcodes/bridgetown-inline-svg/tree/v1.0.0) (2020-07-11)
+## [v0.0.2](https://github.com/andrewmcodes/forem_lite/tree/v0.0.2) (2020-07-26)
 
-[Full Changelog](https://github.com/andrewmcodes/bridgetown-inline-svg/compare/dcf77a73d7fee38fdc00dfce3b6a7f50ebd27636...v1.0.0)
+[Full Changelog](https://github.com/andrewmcodes/forem_lite/compare/12925e47042f5771e4c099761aafe594e5db32c5...v0.0.2)
+
+**Merged pull requests:**
+
+- Add badges and 3rd party services [\#2](https://github.com/andrewmcodes/forem_lite/pull/2) ([andrewmcodes](https://github.com/andrewmcodes))
 
 
 
