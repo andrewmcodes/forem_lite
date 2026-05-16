@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/andrewmcodes/forem_lite/compare/forem_lite-v0.0.2...forem_lite/v0.1.0) (2026-05-16)
+
+
+### Features
+
+* :tada: initial commit ([eaab0dc](https://github.com/andrewmcodes/forem_lite/commit/eaab0dcd5542fe9c3cbb0aed0aba4356e34ca97f))
+
 ## [Unreleased](https://github.com/andrewmcodes/forem_lite/tree/HEAD)
 
 [Full Changelog](https://github.com/andrewmcodes/forem_lite/compare/v0.0.2...HEAD)
